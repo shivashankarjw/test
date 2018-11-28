@@ -7,6 +7,7 @@ public class javaDemo {
 		System.out.print("Green");
 		System.out.print("Yellow");
 		System.out.print("Red");
+		System.out.print("black");
 	}
 
 }
