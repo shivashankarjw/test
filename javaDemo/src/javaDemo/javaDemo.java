@@ -8,8 +8,10 @@ public class javaDemo {
 		System.out.print("Yellow");
 		System.out.print("Red");
 		System.out.print("black");
+		System.out.print("black");
 		System.out.print("white");
 		System.out.print("pink");
+		System.out.print("New pull request");
 	}
 
 }
