@@ -6,6 +6,7 @@ public class javaDemo {
 		// TODO Auto-generated method stub
 		System.out.print("Green");
 		System.out.print("Yellow");
+		System.out.print("Red");
 	}
 
 }
